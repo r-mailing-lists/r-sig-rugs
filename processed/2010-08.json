@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-rugs",
+  "description": "",
+  "month": "2010-08",
+  "messages": [
+    {
+      "id": "msg-dbaea681f36d",
+      "message_id": "<4C59B07A.1080509@gmail.com>",
+      "from_name": "Szilard",
+      "from_email_hash": "d7114d9f981cc647e38d123dbda35d7720d4bf25840a122a7ab4f07b03b25cc7",
+      "date": "2010-08-04T18:24:58Z",
+      "subject": "[R-SIG-RUGs] Website for RUG meeting materials (video, slides, R code)",
+      "subject_clean": "Website for RUG meeting materials (video, slides, R code)",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "Please find here the link to the website aimed at collecting materials \nfrom local R user group meetings (and potentially other R related talks \nsuch as conferences, university lectures etc.) and making them \naccessible to the whole R community:\nhttp://www.r-bloggers.com/RUG/\n\nIf you are RUG organizer, please consider video recording your talks and \ncontribute them (see http://www.r-bloggers.com/RUG/?page_id=2 how). You \nare also welcome to contact me if you have any ideas, suggestions or \ncomments.\n\nSzilard",
+      "body_snippet": "Please find here the link to the website aimed at collecting materials \nfrom local R user group meetings (and potentially other R related talks \nsuch as conferences, university lectures etc.) and maki",
+      "thread_id": "thread-dbaea681f36d",
+      "thread_depth": 0,
+      "month": "2010-08"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-dbaea681f36d",
+      "subject": "Website for RUG meeting materials (video, slides, R code)",
+      "message_count": 1,
+      "participants": [
+        "Szilard"
+      ],
+      "started": "2010-08-04T18:24:58Z",
+      "last_reply": "2010-08-04T18:24:58Z",
+      "root_message_id": "msg-dbaea681f36d"
+    }
+  ]
+}

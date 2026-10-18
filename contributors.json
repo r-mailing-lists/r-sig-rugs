@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Szilard",
+    "slug": "szilard",
+    "emailHash": "d7114d9f981cc647e38d123dbda35d7720d4bf25840a122a7ab4f07b03b25cc7",
+    "messageCount": 4,
+    "firstDate": "2010-07-27T21:30:48Z",
+    "lastDate": "2010-08-04T18:24:58Z",
+    "yearlyActivity": {
+      "2010": 4
+    }
+  },
+  {
+    "name": "Rees Morrison",
+    "slug": "rees-morrison",
+    "emailHash": "4f9ac3fef978683fe34b1bb4246d030c2495ca79f91c78728d4fa8b4e0f914b3",
+    "messageCount": 1,
+    "firstDate": "2013-02-01T14:31:16Z",
+    "lastDate": "2013-02-01T14:31:16Z",
+    "yearlyActivity": {
+      "2013": 1
+    }
+  }
+]

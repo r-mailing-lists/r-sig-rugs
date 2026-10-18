@@ -1,0 +1,36 @@
+{
+  "list": "r-sig-rugs",
+  "description": "",
+  "month": "2013-02",
+  "messages": [
+    {
+      "id": "msg-d91d01af7bc1",
+      "message_id": "<CAJ_hwm96dqRpNdoYuBztPGyuay-5eTdQSHSJGFausZsiyafY_Q@mail.gmail.com>",
+      "from_name": "Rees Morrison",
+      "from_email_hash": "4f9ac3fef978683fe34b1bb4246d030c2495ca79f91c78728d4fa8b4e0f914b3",
+      "date": "2013-02-01T14:31:16Z",
+      "subject": "[R-SIG-RUGs] New Jersey USA Group Trying to Form",
+      "subject_clean": "New Jersey USA Group Trying to Form",
+      "in_reply_to": null,
+      "references": [],
+      "body_plain": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-rugs/attachments/20130201/4cdc26b9/attachment.pl>",
+      "body_snippet": "An embedded and charset-unspecified text was scrubbed...\nName: not available\nURL: <https://stat.ethz.ch/pipermail/r-sig-rugs/attachments/20130201/4cdc26b9/attachment.pl>",
+      "thread_id": "thread-d91d01af7bc1",
+      "thread_depth": 0,
+      "month": "2013-02"
+    }
+  ],
+  "threads": [
+    {
+      "id": "thread-d91d01af7bc1",
+      "subject": "New Jersey USA Group Trying to Form",
+      "message_count": 1,
+      "participants": [
+        "Rees Morrison"
+      ],
+      "started": "2013-02-01T14:31:16Z",
+      "last_reply": "2013-02-01T14:31:16Z",
+      "root_message_id": "msg-d91d01af7bc1"
+    }
+  ]
+}
